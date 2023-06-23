@@ -1,0 +1,143 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://img.freepik.com/free-vector/beautiful-watercolor-background_23-2148486848.jpg?w=2000);
+}
+.uk{
+    weight:55px ;
+    height: 55px;
+}
+a{
+     color: black;
+    text-decoration: none;
+    border: 5px solid rgb(0, 127, 2);
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+    font-family: Luminari, fantasy;
+   }
+  
+   .l{
+        border-solide: 10px;
+           font-size: 30px;
+           background-color:rgb(0, 245, 183);
+           border-radius: 10px;
+           font-family: Trattatello, fantasy;
+           list-style: url(https://i.postimg.cc/YqdJzmT2/free-icon-fire-7920930.png);
+   }
+   
+   .t{
+        border-solide: 10px;
+           font-size: 30px;
+           background-color: rgb(0, 245, 183);
+           border-radius: 10px;
+           font-family: Snell Roundhand, cursive;
+   }
+   .p{
+    text-decoration: none;
+    border: solid 3px black;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+   }
+   .k{
+       list-style: url(https://skillup.ua/lp/ua-frontend-online-kurs/images/suitable-workwers-icon.svg);
+       font-family: Trattatello, fantasy;
+       font-size: 30px;
+   }
+   .m{
+       list-style: url(https://skillup.ua/lp/ua-frontend-online-kurs/images/suitable-money-icon.svg);
+       font-family: Trattatello, fantasy;
+       font-size: 30px;
+   }
+   .h{
+      list-style: url(https://skillup.ua/lp/ua-frontend-online-kurs/images/suitable-monitor-icon.svg);
+      font-family: Trattatello, fantasy;
+      font-size: 30px; 
+   }
+   .s{
+      list-style: url(https://skillup.ua/lp/ua-frontend-online-kurs/images/suitable-foreign-partner-icon.svg);
+      font-family: Trattatello, fantasy;
+      font-size: 30px;
+      }
+      .q{
+      list-style: url(https://skillup.ua/lp/ua-frontend-online-kurs/images/suitable-remote-icon.svg);
+      font-family: Trattatello, fantasy;
+      font-size: 30px;
+      }
+      .w{
+      list-style: url(https://skillup.ua/lp/ua-frontend-online-kurs/images/suitable-side-work-icon.svg);
+      font-family: Trattatello, fantasy;
+      font-size: 30px;
+      }
+      .y{
+           font-size: 40px;
+           border-radius: 10px;
+           font-family:Brush Script Std, cursive;
+           text-align: center;
+           border: solid 3px black;
+           border-radius: 20px;
+           width: 370px;
+      }
+      .rt{
+           float: right;
+           width:100px ;
+           height:100px ;
+      }
+      footer p{
+      font-family: Trattatello, fantasy;
+      font-size: 20px;
+      background-color: black;
+      color: white;
+       }
+       a:hover{
+        font-size:30px ;
+
+       }
+       .p{ 
+        position:fixed;
+        top: 360px;
+        left: 1230px;
+    z-index: 1;}
+        
+
+        .img:hover{
+            border: 20px double rgb(232, 84, 255);
+            opacity: 1;
+        }
+        .img{
+            width: 300px;
+            height: 250px;
+            opacity: 0.5;
+        }
+        .img{ position: relative;
+            left: 600px;
+            bottom: 600px;
+        }
+        .skillup:hover{
+            border: 20px double rgb(232, 84, 255);
+            opacity: 1;
+        }
+        .skillup{
+            width: 300px;
+            height: 250px;
+            opacity: 0.5;
+        }
+        .skillup{ position: relative;
+            left: 700px;
+            bottom: 600px;
+        }
+        .skill:hover{
+            border: 20px double rgb(232, 84, 255);
+            opacity: 1;
+        }
+        .skill{
+            width: 300px;
+            height: 250px;
+            opacity: 0.5;
+        }
+        .skill{ position: relative;
+            left: 200px;
+            bottom: 300px;
+        }
